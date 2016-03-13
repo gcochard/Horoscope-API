@@ -8,3 +8,4 @@ newrelic==2.54.0.41
 horoscope==1.0.1
 wsgiref==0.1.2
 lxml
+flask-cors
